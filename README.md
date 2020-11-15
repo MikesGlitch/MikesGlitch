@@ -5,11 +5,12 @@
 
 <h3 align="center">Focused on the delivery of highly scalable, performant, and tested Web Applications. My specialities are with .NET, Vue, React and Angular. </h3>
 
-- 🔭 I’m currently working on [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-
+- 🔭 I’m currently working on improving my online professional presence and building a Twitch channel
+<!--
 - 👯 I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
 
 - 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+-->
 
 - 💬 Ask me about **react, vue and .net**
 
