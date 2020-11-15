@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/mjclark91" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mjclark91" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/mjclark91" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mjclark91" height="20" width="20" /></a>
 </p>
 
 <h3 align="center">Focused on the delivery of highly scalable, performant, and tested Web Applications. My specialities are with .NET, Vue, React and Angular. </h3>
