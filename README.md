@@ -5,20 +5,20 @@
 
 <h3 align="center">Focused on the delivery of highly scalable, performant, and tested Web Applications. My specialities are with .NET, Vue, React and Angular. </h3>
 
-- 🔭 I’m currently working on improving my online professional presence and building a Twitch channel
+🔭 I’m currently working on improving my online professional presence and building a Twitch channel
 <!--
-- 👯 I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
+👯 I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
 
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 -->
 
-- 💬 Ask me about **react, vue and .net**
+💬 Ask me about **react, vue and .net**
 
-- 📫 Reach me at **mclarkgb@gmail.com**
+📫 Reach me at **mclarkgb@gmail.com**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/CodeRevver)
+👨‍💻 All of my projects are available at [github](https://github.com/CodeRevver)
 
-- ⚡ Fun fact **Sometimes I go hours without coffee... ☕️**
+⚡ Fun fact **Sometimes I go hours without coffee... ☕️**
 <p align="center"><img src=https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg alt=csharp width="40" height="40"/><img src=https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg width="40" height="40"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain-wordmark.svg width="40" height="40"/>  <img src=https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg alt=postgresql width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="40" height="40"/> </p>
