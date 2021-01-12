@@ -16,7 +16,7 @@
 
 📫 Reach me at **mclarkgb@gmail.com**
 
-👨‍💻 All of my projects are available at [github](https://github.com/CodeRevver?tab=repositories)
+👨‍💻 All of my projects are available at [github](https://github.com/CodeRevver?tab=repositories) - some are private
 
 ⚡ Fun fact **sometimes I go hours without coffee... ☕️**
 <p align="center">
