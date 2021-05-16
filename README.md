@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
+<h1 align="center">Hi 👋, I'm Mike</h1>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCfx1yOrSVwlO-VwpKxvlqow" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" alt="youtube" height="20" width="29" /></a> <a style="background-color: purple" href="https://www.twitch.tv/mikesglitch" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202062logosocialsocialmediatwitch-115626_115675.png" alt="Twitch" height="20" width="20" /></a> <a href="https://www.linkedin.com/in/mjclark91" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mjclark91" height="20" width="20" /></a>
 </p>
