@@ -3,7 +3,7 @@
   <a href="https://www.youtube.com/channel/UCfx1yOrSVwlO-VwpKxvlqow" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" alt="youtube" height="20" width="29" /></a> <a style="background-color: purple" href="https://www.twitch.tv/mikesglitch" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202062logosocialsocialmediatwitch-115626_115675.png" alt="Twitch" height="20" width="20" /></a> <a href="https://www.linkedin.com/in/mikesglitch" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mikesglitch" height="20" width="20" /></a>
 </p>
 
-<h3 align="center">Focused on the delivery of highly scalable, efficient, and tested Web Applications. My specialities are with .NET, Vue and React. </h3>
+<h3 align="center">Product-oriented Software Engineer with around 10 years of full stack web development experience. I love to solve problems and focus on delivering reliable, scalable and tested applications.</h3>
 
 🔭 I’m currently working on improving my online professional presence and building a Twitch channel
 <!--
@@ -18,7 +18,7 @@
 
 👨‍💻 All of my projects are available at [github](https://github.com/MikesGlitch?tab=repositories) - some are private
 
-⚡ Fun fact **sometimes I go hours without coffee... ☕️**
+☕️ Fun fact **sometimes I go hours without coffee...**
 <p align="center">
   <img src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg alt=csharp width="40" height="40"/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/> <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/><img src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/>  <img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/>  <img src=https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg alt=sass width="40" height="40"/><img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/>
