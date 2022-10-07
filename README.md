@@ -5,7 +5,7 @@
 
 <h3 align="center">Product-oriented Software Engineer with around 10 years of full stack web development experience. I love to solve problems and focus on delivering reliable, scalable and tested applications.</h3>
 
-🔭 I’m currently working on improving my online professional presence and building Plutus
+🔭 I’m currently working on improving my online professional presence and building [Plutus](https://github.com/MikesGlitch/plutus)
 <!--
 👯 I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
 
