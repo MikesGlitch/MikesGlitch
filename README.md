@@ -14,7 +14,7 @@
 
 💬 Ask me about **react, vue and .net**
 
-📫 Reach me at **mclarkgb@gmail.com**
+📫 Message me on [Linkedin](https://www.linkedin.com/in/mikesglitch) or [Discord](https://discord.com/users/425717708663947265)
 
 👨‍💻 All of my projects are available at [github](https://github.com/MikesGlitch?tab=repositories) - some are private
 
