@@ -3,7 +3,7 @@
   <a href="https://www.youtube.com/channel/UCfx1yOrSVwlO-VwpKxvlqow" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" alt="youtube" height="20" width="29" /></a> <a href="https://www.linkedin.com/in/mikesglitch" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mikesglitch" height="20" width="20" /></a>
 </p>
 
-<h3 align="center">Product-oriented Software Engineer with around 10 years of full stack web development experience. I love to solve problems and focus on delivering reliable, scalable and tested applications.</h3>
+<h3 align="center">Product-oriented Software Engineer with 10+ years of full stack web development experience. I love to solve problems and focus on delivering reliable, scalable and tested applications.</h3>
 
 🔭 I’m currently working on improving my online professional presence and building [Plutus](https://github.com/MikesGlitch/plutus)
 <!--
