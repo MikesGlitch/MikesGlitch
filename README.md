@@ -19,11 +19,22 @@
 👨‍💻 All of my projects are available at [github](https://github.com/MikesGlitch?tab=repositories) - some are private
 
 ☕️ Fun fact **sometimes I go hours without coffee...**
+
+<h3 align="center">Languages:</h3>
 <p align="center">
   <img src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg alt=csharp width="40" height="40"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/> <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> </p>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=MikesGlitch&show_icons=true alt=MikesGlitch /> </p>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg alt=csharp width="40" height="40"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=csharp width="40" height="40"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt=csharp width="40" height="40"/>
+</p>
+<h3 align="center">Frameworks:</h3>
+<p align="center">
+ <img src=https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg alt=vuejs width="40" height="40"/> 
+ <img src=https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/> 
+ <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/>
+</p>          
 
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=MikesGlitch&show_icons=true alt=MikesGlitch /> </p>                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 <!--
 **MikesGlitch/MikesGlitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
