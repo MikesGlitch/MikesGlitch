@@ -17,7 +17,6 @@
 <h3 align="">Languages:</h3>
 <p align="">
   <img src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg alt=csharp width="40" height="40"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg alt=csharp width="40" height="40"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=csharp width="40" height="40"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt=csharp width="40" height="40"/>
 </p>
