@@ -14,10 +14,6 @@
 
 ☕️ Fun fact: sometimes I go **hours** without coffee
 
-<table width="100%">
-
-  <tr>
-    <td>
 <h3 align="">Languages:</h3>
 <p align="">
   <img src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg alt=csharp width="40" height="40"/>
@@ -31,11 +27,4 @@
  <img src=https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/> 
  <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/>
 </p>          
-    </td>      
-    <td border="0">
-    <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MikesGlitch&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
-</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-    </td>
-  </tr>
-</table>
