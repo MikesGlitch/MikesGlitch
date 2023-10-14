@@ -34,7 +34,9 @@
  <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/>
 </p>          
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=MikesGlitch&show_icons=true alt=MikesGlitch /> </p>                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MikesGlitch&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 <!--
 **MikesGlitch/MikesGlitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
