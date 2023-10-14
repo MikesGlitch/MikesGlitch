@@ -1,4 +1,4 @@
-<h1 align="">Hi 👋, I'm Mike</h1>
+<h1 align="">Hi, I'm Mike 👋</h1>
 <p align="">
   <i>
     Product-oriented Software Engineer with 10+ years of full stack web development experience. <br/>
