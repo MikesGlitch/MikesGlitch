@@ -6,19 +6,14 @@
 <h3 align="center">Product-oriented Software Engineer with 10+ years of full stack web development experience. I love to solve problems and focus on delivering reliable, scalable and tested applications.</h3>
 
 🔭 I’m currently working on improving my online professional presence and building [Plutus](https://github.com/MikesGlitch/plutus)
-<!--
-👯 I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
 
-🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
--->
-
-💬 Ask me about **react, vue and .net**
+💬 Ask me about **React, Vue and .Net**
 
 📫 Message me on [Linkedin](https://www.linkedin.com/in/mikesglitch) or [Discord](https://discord.com/users/425717708663947265)
 
-👨‍💻 All of my projects are available at [github](https://github.com/MikesGlitch?tab=repositories) - some are private
+👨‍💻 All of my projects are available at [github](https://github.com/MikesGlitch?tab=repositories) - some are private.
 
-☕️ Fun fact **sometimes I go hours without coffee...**
+☕️ Fun fact: sometimes I go **hours** without coffee
 
 <h3 align="center">Languages:</h3>
 <p align="center">
