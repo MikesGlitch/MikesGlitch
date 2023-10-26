@@ -1,7 +1,7 @@
 <h1 align="">Hi, I'm Mike 👋</h1>
 <p align="">
   <i>
-    Product-oriented Software Engineer with 10+ years of full stack web development experience. <br/>
+    Product-oriented Software Engineer with over a decade of full stack web development experience. <br/>
     I love to solve problems and focus on delivering reliable, scalable and tested applications.
   </i>
 </p> 
