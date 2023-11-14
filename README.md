@@ -10,7 +10,7 @@
 
 📫 Message me on [Linkedin](https://www.linkedin.com/in/mikesglitch) or [Discord](https://discord.com/users/425717708663947265)
 
-👨‍💻 Have a look at my projects on [github](https://github.com/MikesGlitch?tab=repositories)
+👨‍💻 Have a look at my projects on [GitHub](https://github.com/MikesGlitch?tab=repositories)
 
 ☕️ Fun fact: sometimes I go **hours** without coffee
 
