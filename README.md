@@ -6,7 +6,7 @@
   </i>
 </p> 
   
-💬 Ask me about **React, Vue and .Net**
+💬 Ask me about **React, Vue and .NET**
 
 📫 Message me on [Linkedin](https://www.linkedin.com/in/mikesglitch) or [Discord](https://discord.com/users/425717708663947265)
 
