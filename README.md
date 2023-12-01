@@ -14,7 +14,7 @@
 
 ☕️ Fun fact: sometimes I go **hours** without coffee
 
-<h3 align="">Tools:</h3>
+<h3 align="">My toolbox:</h3>
 <p align="">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg alt=csharp width="40" height="40"/></a>
   <img src=https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg alt=vuejs width="40" height="40"/> 
